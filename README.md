@@ -72,10 +72,10 @@
 這個專題我主要負責是 Java server 部分, 建立 php 和 python 的溝通管道, 以及建立 proxy server 支援即時串流.
 次要是會協助 web 雲端平台的建立
 ### 自我學習
-* Javascript 30 (es6)
-* Vue js 實作小作品
+* [Javascript 30 (es6)](https://github.com/nono1526/javascript30)
+* Vue js 實作小作品([vue 踩地雷小遊戲](https://github.com/nono1526/VueMinesweeper))
 * webpack、glup
 * sass
 
-相關作品放在我的 GitHub [[GitHub](https://github.com/nono1526)]
+相關作品放在我的 [[GitHub](https://github.com/nono1526)]
 
